@@ -1,6 +1,6 @@
 # Titan Camera Lab
 
-A camera app for the **Unihertz Titan 2** by Carmine Petruziello. I built it to get sharper indoor photos and reduce the jolts in walking videos on my Titan. The interface is in Italian. [Guida in italiano](README.it.md)
+A camera app for the **Unihertz Titan 2** by Carmine Petruziello. I built it to get sharper indoor photos and reduce the jolts in walking videos on my Titan. The interface is in Italian. [Guida in italiano](README.it.md) · [☕ Buy me a coffee](https://buymeacoffee.com/tgodfather)
 
 ## Download
 

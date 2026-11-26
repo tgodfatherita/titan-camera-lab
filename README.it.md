@@ -2,6 +2,8 @@
 
 La versione pubblica per Titan 2 è disponibile nella [release GitHub](https://github.com/tgodfatherita/titan-camera-lab/releases/tag/v0.16). Sul telefono scaricare e aprire **TitanCameraLab-0.16-arm64.apk**. La stessa pagina contiene il codice e l’archivio dei sorgenti delle librerie incluse.
 
+[☕ Offrimi un caffè](https://buymeacoffee.com/tgodfather)
+
 La fotocamera salva in galleria un video stabilizzato per ogni nuova ripresa. Con **Giroscopio · prova** il Titan 2 applica alla ripresa la correzione scelta nel confronto del 23 novembre. La GPU ridisegna i fotogrammi e i codec hardware decodificano e ricomprimono il video. L'audio AAC conserva i dati e i tempi della registrazione. **Marcata** usa il rilevamento del movimento nell'immagine di FFmpeg/libvidstab e, dove disponibile, la codifica hardware.
 
 Prototipo Android nativo Camera2 per Unihertz Titan 2, sviluppato da Carmine Petruziello. Pacchetto `it.carmine.titancamera`. In fondo alle **Impostazioni** si trovano la versione installata e il nome dell’autore.
